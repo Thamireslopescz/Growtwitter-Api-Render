@@ -21,8 +21,8 @@ Agora, vamos colocar a mão na massa para executar o projeto final do backend da
 
 1. Clone este incrível projeto final com o seguinte comando:
    ```
-   git clone https://github.com/Thamireslopescz/Growtwitter.git
-   cd api-growtwitter
+   git clone https://github.com/Thamireslopescz/Growtwitter-Api-Render.git
+   cd api-Growtwitter-api-Render
    ```
 
 2. Instale as dependências necessárias para que tudo funcione como um relógio:
